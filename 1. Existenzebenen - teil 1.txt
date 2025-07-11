@@ -1,0 +1,205 @@
+1. Existenzebenen
+1.1 Mortal Realm (Sterbliche Welt)
+Beschreibung: Eine Ebene mit schwachen, diffusen universellen Gesetzen und geringer Qi-Konzentration, was die Kultivation erschwert. Dennoch bietet der Mortal Realm durch seine Vielfalt an parallelen Welten einzigartige Möglichkeiten für Kultivatoren, die nach Macht streben.
+Qi-Konzentration: 1-2 Einheiten Qi/Tag für normale Spirit Roots, was die Kultivation langsam und ressourcenabhängig macht.
+Parallele Welten: Besteht aus zahlreichen separaten Welten (z. B. Kontinente, Dimensionen), die auf derselben Ebene existieren, aber durch Dimensionsbarrieren getrennt sind. Jede Welt ist einzigartig, mit eigenen Kulturen, Ressourcen und Gefahren. 
+Beispiele: Wànfǎ Dàlù als eine dieser Welten (siehe 2.2), neben anderen wie den Chaotischen Ebenen oder den Öden Sternenlanden.
+Ressourcen: Selten und von niedriger Qualität, hauptsächlich spirituelle Kräuter und einfache Schmiedematerialien mit geringer Wahrscheinlichkeit für höherwertige Funde (siehe 5.3 Ressourcen).
+Beispiele: Azure Lotus (Westen von Wànfǎ Dàlù), Bone Chilling Essence Crystal (Norden), Beast Flames (Inselreich der Dämonischen Bestien), Qi-Kristalle, Blutrosenwurzel, Temporal Jade Flask.
+Grenze: Deity Transformation (Übergang zum Spirit Realm).
+Aufstieg: Möglich durch Thunder Tribulation oder Dimensionsriss, wobei der Aufstieg oft in eine spezifische Welt des Spirit Realms führt.
+Fraktionen-Ranking im Mortal Realm: 
+Level 1 Fraktion (Sterbliche Gruppen): 
+Höchste Kultivationsstufe: Body Forging.
+Typische Gruppen: Kleine Dorfgemeinschaften, lokale Handwerkergilden oder unbedeutende Sekten.
+Einfluss: Minimal, stark begrenzt auf lokale Territorien.
+Beispiele: Die Eisenhand-Gilde, die einfache Werkzeuge herstellt.
+Level 2 Fraktion (Qi Condensation Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Qi Condensation Kultivator.
+Typische Gruppen: Kleine bis mittelgroße Sekten, Klöster oder regionale Gilden.
+Einfluss: Regional begrenzt, mit zunehmender Kontrolle über Ressourcen wie Qi-reiche Orte.
+Beispiele: Die Scharlachrote Dämmerungssekte könnte hier ein typisches Beispiel sein.
+Level 3 Fraktion (Foundation Establishment Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Foundation Establishment Kultivator.
+Typische Gruppen: Mittelgroße bis große Sekten, stärkere Klöster oder Handelsgilden.
+Einfluss: Kontrolle über mehrere Regionen, wachsender politischer Einfluss.
+Beispiele: Ein Kloster, das über einzigartige spirituelle Pflanzen wacht.
+Level 4 Fraktion (Golden Core Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Golden Core Kultivator.
+Typische Gruppen: Große Sekten, einflussreiche Gilden oder imperiale Provinzherrscher.
+Einfluss: Nationale Bedeutung, beginnt benachbarte Länder und Fraktionen zu dominieren.
+Beispiele: Das Kaiserliche Kloster der Sonnenblüte, das himmlische Artefakte schmiedet.
+Level 5 Fraktion (Nascent Soul Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Nascent Soul Kultivator.
+Typische Gruppen: National führende Fraktionen, Sekten mit legendärem Ruf.
+Einfluss: Beherrscht Länder und konkurriert mit anderen mächtigen Fraktionen.
+Beispiele: Ein Imperium, das seine Stärke aus einem Nascent Soul Herrscher zieht.
+Level 6 Fraktion (Deity Transformation Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Deity Transformation Kultivator oder höher.
+Typische Gruppen: Übernationale Sekten oder Imperien mit Zugang zum Spirit Realm.
+Einfluss: Absolute Dominanz, oft als Legendenfiguren verehrt.
+Beispiele: Eine Göttliche Flamme-Sekte, die durch den Spirit Realm reist.
+
+1.2 Spirit Realm (Spirituelle Welt)
+Beschreibung: Stärkere und konzentriertere Gesetze und Qi erleichtern die Kultivation erheblich im Vergleich zum Mortal Realm. Diese Ebene ist ein Zwischenstadium, in dem Kultivatoren ihre Fähigkeiten verfeinern und sich auf den Aufstieg zum Immortal Realm vorbereiten.
+Qi-Konzentration: 10-20 Einheiten Qi/Tag für normale Spirit Roots, was schnellere Fortschritte und komplexere Techniken ermöglicht.
+Parallele Welten: Umfasst mehrere parallele Dimensionen, die unabhängig voneinander existieren. Diese Welten sind durch mächtige Formationen oder chaotische Räume getrennt, können aber durch Portale oder Rituale verbunden sein. 
+Beispiele: Eine Welt könnte ein dichter Dschungel mit spirituellen Bestien sein, eine andere ein endloser Ozean mit schwimmenden Inseln.
+Ressourcen: Vielfältig und von hoher Qualität, mit mäßiger Wahrscheinlichkeit für seltene spirituelle Kräuter, Flammen und Formationsmaterialien (siehe 5.3 Ressourcen).
+Beispiele: Earth Flame, Azure Lotus, Demonic Flames, Frostmoon Essence Crystal, Eternal Bloom Basin.
+Grenze: Pseudo Immortal (Übergang zum Immortal Realm).
+Aufstieg: Erfordert eine mächtige Thunder Tribulation oder einen Dimensionsriss, mit Ziel in einer der Immortal Realm Welten.
+Fraktionen-Ranking im Spirit Realm (neu hinzugefügt): 
+Level 1 Fraktion (Soul Formation Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Soul Formation Kultivator.
+Typische Gruppen: Kleine Sekten oder Clans, die sich gerade im Spirit Realm etabliert haben.
+Einfluss: Begrenzt auf eine einzelne Region oder Dimension innerhalb einer parallelen Welt.
+Beispiele: Eine neu gegründete Sekte, die einen Dschungel voller spiritueller Bestien kontrolliert.
+Level 2 Fraktion (Soul Transformation Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Soul Transformation Kultivator.
+Typische Gruppen: Mittelgroße Sekten oder Allianzen, die mehrere kleinere Gruppen vereinen.
+Einfluss: Kontrolle über eine ganze parallele Welt oder mehrere Regionen innerhalb einer Dimension.
+Beispiele: Ein Clan, der eine Ozeanwelt mit schwimmenden Inseln beherrscht.
+Level 3 Fraktion (Void Training Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Void Training Kultivator.
+Typische Gruppen: Große Sekten oder Dynastien mit Zugang zu seltenen Ressourcen wie Zeitsphären.
+Einfluss: Dominanz über mehrere parallele Welten oder bedeutende Handelsrouten zwischen Dimensionen.
+Beispiele: Eine Handelsdynastie, die Portale zwischen Welten kontrolliert.
+Level 4 Fraktion (Body Integration Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Body Integration Kultivator.
+Typische Gruppen: Mächtige Sekten oder Königreiche mit legendärem Ruf im Spirit Realm.
+Einfluss: Kontrolle über ein Netzwerk paralleler Welten und Einfluss auf den Aufstieg zum Immortal Realm.
+Beispiele: Eine Sekte, die eine Zeitsphäre besitzt und Kräuter für den ganzen Spirit Realm züchtet.
+Level 5 Fraktion (Grand Ascension Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Grand Ascension Kultivator.
+Typische Gruppen: Führende Fraktionen mit enormer Macht und historischer Bedeutung.
+Einfluss: Beherrschen weite Teile des Spirit Realms und haben Verbindungen zum Immortal Realm.
+Beispiele: Ein Königreich, das Dimensionsrisse bewacht und Tribute von niedrigeren Fraktionen verlangt.
+Level 6 Fraktion (Tribulation Transcendence Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Tribulation Transcendence Kultivator.
+Typische Gruppen: Legendäre Sekten oder Imperien, die kurz vor dem Aufstieg ins Immortal Realm stehen.
+Einfluss: Absolute Autorität über den Spirit Realm, oft als Halbgötter verehrt.
+Beispiele: Eine Göttliche Sekte, die Thunder Tribulations für den Aufstieg kontrolliert.
+1.3 Immortal Realm (Unsterbliche Welt)
+Beschreibung: Gesetze und Qi existieren in ihrer reinsten, mächtigsten Form; leicht zu verstehen, aber schwer zu meistern. Das Immortal Realm ist der Höhepunkt der Kultivation, wo Unsterbliche um die ultimative Meisterschaft und kosmische Herrschaft kämpfen.
+Qi-Konzentration: 100+ Einheiten Qi/Tag für normale Spirit Roots, was eine nahezu unbegrenzte Kultivationsgeschwindigkeit und göttliche Techniken erlaubt.
+Parallele Welten: Eine Ansammlung höchster Dimensionen, jede eine eigene Realität mit einzigartigen Gesetzen und Machtstrukturen. Die Trennung erfolgt durch undurchdringliche Barrieren, die nur die mächtigsten Kultivatoren überwinden können. 
+Beispiele: Dimension der Ewigen Schatten (Hauptsitz der Shadow Soul Hall) neben anderen wie dem Himmlischen Palastreich oder der Leeren Sternenwüste..
+Ressourcen: Reich an göttlichen Ressourcen mit hoher Wahrscheinlichkeit für legendäre Kräuter, Artefakte und kosmische Materialien (siehe 5.3 Ressourcen).
+Beispiele: Heavenly Flames, Void Nirvana Jade, Phoenix Heart Crystal, Primordial Chaos Flames, Dragon Blood Lotus, Chronos Stone.
+Grenze: Höhepunkt der Kultivation, keine weitere Ebene bekannt.
+Aufstieg: Kein weiterer Übergang möglich; Fokus auf Meisterschaft und Dominanz innerhalb der parallelen Welten.
+Fraktionen-Ranking im Immortal Realm (neu hinzugefügt): 
+Level 1 Fraktion (Human Immortal Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Human Immortal.
+Typische Gruppen: Kleine Sekten oder Clans, die sich im Immortal Realm etablieren.
+Einfluss: Kontrolle über eine kleinere Region innerhalb einer parallelen Welt.
+Beispiele: Ein Clan, der eine Oase mit Dragon Blood Lotus bewacht.
+Level 2 Fraktion (Earth Immortal Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Earth Immortal.
+Typische Gruppen: Mittelgroße Sekten oder Allianzen mit stabiler Basis.
+Einfluss: Beherrschen eine gesamte parallele Welt oder mehrere kleinere Dimensionen.
+Beispiele: Eine Sekte, die Heavenly Flames in der Leeren Sternenwüste sammelt.
+Level 3 Fraktion (Gold Immortal Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Gold Immortal.
+Typische Gruppen: Große Dynastien oder Sekten mit Zugang zu kosmischen Ressourcen.
+Einfluss: Kontrolle über ein Netzwerk paralleler Welten und bedeutende Handelsströme.
+Beispiele: Eine Dynastie, die Chronos Stones für Zeitmanipulation abbaut.
+Level 4 Fraktion (Green Jade Immortal Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Green Jade Immortal.
+Typische Gruppen: Legendäre Sekten oder Reiche mit enormer Macht.
+Einfluss: Dominanz über weite Teile des Immortal Realms und Einfluss auf niedrigere Ebenen.
+Beispiele: Eine Sekte, die die Dimension der Ewigen Schatten beherrscht.
+Level 5 Fraktion (White Jade Immortal Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein White Jade Immortal.
+Typische Gruppen: Führende Fraktionen mit nahezu göttlichem Status.
+Einfluss: Beherrschen mehrere große Dimensionen und haben Verbindungen zu kosmischen Kräften.
+Beispiele: Ein Himmlisches Reich, das Void Nirvana Jade kontrolliert.
+Level 6 Fraktion (Zenith Heaven oder Dao Ancestor Kultivator vorhanden): 
+Höchste Kultivationsstufe: Mindestens ein Zenith Heaven oder Dao Ancestor.
+Typische Gruppen: Mythische Sekten oder Imperien, die als Schöpfer oder Zerstörer gelten.
+Einfluss: Absolute Herrschaft über das Immortal Realm, oft mit Einfluss auf Spirit und Mortal Realm.
+Beispiele: Eine Sekte, die Primordial Chaos Flames nutzt und als göttlich verehrt wird.
+
+1.4 Secret Realms
+Definition und Mechaniken: 
+Was ist ein Secret Realm?
+Ein Secret Realm ist ein verborgener, oft schwer zugänglicher Ort in der Kultivationswelt, der durch besondere Bedingungen oder Ereignisse entsteht. Diese Realms existieren außerhalb der normalen Realität und sind durch hohe Konzentrationen von Qi, einzigartige Gesetze und eine Vielzahl von Herausforderungen gekennzeichnet. Sie dienen oft als Schatzkammern, Prüfungsstätten oder geschichtsträchtige Zufluchtsorte. 
+Charakteristika: 
+Abgeschottet von den Hauptwelten (Mortal, Spirit, Immortal).
+Geprägt von stabilen oder chaotischen Qi-Strukturen, die seltene Ressourcen fördern.
+Zugang erfolgt durch spezielle Portale, Formationen oder temporäre Risse in der Dimension.
+Qi-Konzentration: Variiert je nach Ebene und Typ des Secret Realms: 
+Mortal Realm: 3-5 Einheiten Qi/Tag für normale Spirit Roots, über dem Durchschnitt der Ebene (1-2 Einheiten).
+Spirit Realm: 20-50 Einheiten Qi/Tag, deutlich höher als der Standard (10-20 Einheiten).
+Immortal Realm: 200-500+ Einheiten Qi/Tag, weit über dem Normalwert (100+ Einheiten).
+
+Zweck in der Kultivationswelt: 
+Dienen als Quelle für außergewöhnliche Kräuter, Artefakte und Wissen.
+Oft als Prüfungen für Kultivatoren genutzt, um ihre Fähigkeiten zu testen und sie auf höhere Ebenen vorzubereiten.
+Können eine Geschichte oder Herkunft haben, die mit legendären Figuren oder Ereignissen verbunden ist.
+Typen von Secret Realms: 
+Ressourcenreiche Realms: Enthalten seltene spirituelle Kräuter, magische Artefakte und Mineralien. Beispiel: Ein Reich voller Sun-Flame Herbs und Thunderstrike Roots.
+Prüfungs-Realms: Enthalten Herausforderungen oder himmlische Prüfungen. Beispiel: Ein Realm, geschützt durch Thunder Tribulations.
+Kulturelle oder historische Realms: Relikte der Vergangenheit mit wertvollen Schriftrollen oder verlorenen Daos. Beispiel: Ein Realm der Sword Dao Legacy.
+Zugang zu einem Secret Realm: 
+Portale und Formationen: Versteckt an Qi-Knotenpunkten. Beispiel: Eine Rune, die sich bei Sternenkonstellationen aktiviert.
+Dimensionsrisse: Instabile Tore, die intensiven Energieverbrauch erfordern.
+Temporäre Realms: Erscheinen bei kosmischen Ereignissen wie Sonnenfinsternissen.
+Herausforderungen innerhalb von Secret Realms: 
+Natürliche Gefahren: Chaotische Qi-Strömungen, extreme Umwelteinflüsse, Fallen.
+Wächter und Bestien: Mächtige spirituelle Bestien wie der Flammenlöwe (bewacht Inferno Bloom).
+Himmlische Prüfungen: Rätsel, Kämpfe oder mentale Herausforderungen.
+Belohnungen in Secret Realms: 
+Seltene Kräuter: Heavenly Spirit Ginseng (5.000 Jahre), Azure Lotus (10.000 Jahre).
+Legendäre Artefakte: Void Shard Pendant (Raum-Manipulation).
+Antikes Wissen: Dao-Schriftrollen, Techniken, verlorene Legenden.
+Zeit und Alter in Secret Realms: 
+Qi-Absorption über Äonen: Kräuter und Artefakte nehmen über Jahrtausende Qi auf.
+Alter der Kräuter: Mortal Realm (2.000–5.000 Jahre), Spirit Realm (bis 100.000 Jahre), Immortal Realm (über 500.000 Jahre).
+Gesellschaftliche Bedeutung von Secret Realms: 
+Auktionen und Kriege: Fraktionen kämpfen um Zugang; seltene Gegenstände werden teuer gehandelt.
+Legendenbildung: Kultivatoren begründen Ruhm auf Schätzen aus Secret Realms.
+Zusätzliche Elemente in Secret Realms: 
+Mächtige Kultivationstechniken: Vergessenes Wissen wie Ethereal Blade Dance.
+Wertvolle Schmiedematerialien und Puppen-Materialien: Void Iron, Eternal Puppet Cores.
+Vergessene Formationen: Heaven's Shifting Formation, Lehrbücher über Formationen.
+Seltene Haustiere und Insekten: Skyfire Phoenix, Moonlit Silkworm.
+Mächtige Talismane: Celestial Barrier Talisman.
+Weitere Besonderheiten: Zeit-Differenzen (1 Jahr = 1 Tag Außenwelt), kosmische Resonanz mit Daos.
+1.5 Emperor Graves (Kaisergräber)
+Beschreibung: Die letzten Ruhestätten mächtiger Kultivatoren oder Herrscher, geschützt durch spirituelle Formationen und tödliche Fallen. Sie enthalten wertvolle Schätze wie Techniken, Waffen oder Artefakte.
+Herausforderungen: Wächter (Marionetten, spirituelle Bestien), Rätsel, komplexe Formationen.
+Belohnungen: Legendäre Waffen (z. B. Heavenly Emperor Sword), Dao-Schriftrollen.
+Zugang: [Platzhalter: System für Zugang wird später ausgearbeitet]
+1.6 Vergessene Kultivationshöhlen (Forgotten Cultivation Caves)
+Beschreibung: Verlassene Rückzugsorte von Kultivatoren, die Durchbrüche anstrebten. Enthalten unvollendete Techniken, Kräuter oder Artefakte.
+Herausforderungen: Instabile Qi-Strömungen, Fallen, Formationen.
+Belohnungen: Unvollendete Techniken, Void Crystals, Spirit Herbs.
+Zugang: [Platzhalter: System für Zugang wird später ausgearbeitet]
+1.7 Illusorische Realms (Illusory Realms)
+Beschreibung: Durch Illusionen geschützte Dimensionen, die mentale Stärke und Klarheit testen. Oft Prüfungsstätten.
+Herausforderungen: Verzerrende Illusionen, himmlische Prüfungen.
+Belohnungen: Spirituelle Artefakte, höheres Dao-Verständnis.
+Zugang: [Platzhalter: System für Zugang wird später ausgearbeitet]
+1.8 Verborgene Dimensionen (Hidden Dimensions)
+Beschreibung: Separat existierende Dimensionen mit einzigartigen Gesetzen und Ressourcen, zugänglich durch Portale oder Formationen.
+Herausforderungen: Anpassung an Gesetze, Kämpfe gegen Bestien oder Kultivatoren.
+Belohnungen: Kosmische Essenzen, Materialien für Puppen/Talismane.
+Zugang: [Platzhalter: System für Zugang wird später ausgearbeitet]
+1.9 Fiendische Ruinen (Fiend Ruins)
+Beschreibung: Überreste von Schlachtfeldern oder Städten, durchdrungen von dunkler Energie. Enthalten gefährliche, wertvolle Ressourcen.
+Herausforderungen: Dunkle Qi-Strömungen, fiendische Kreaturen.
+Belohnungen: Fiendische Artefakte, Abyssal Crystals.
+Zugang: [Platzhalter: System für Zugang wird später ausgearbeitet]
+1.10 Verlorene Bibliotheken (Lost Libraries)
+Beschreibung: Antike Bibliotheken mit Wissen über Techniken, Daos und Formationen, geschützt durch Formationen.
+Herausforderungen: Rätsel, spirituelle Wächter (Marionetten, Formationsgeister).
+Belohnungen: Verlorenes Wissen, Schriftrollen über Formationen.
+Zugang: [Platzhalter: System für Zugang wird später ausgearbeitet]
+1.11 Himmelsinseln (Sky Islands)
+Beschreibung: Schwebende Inseln, gehalten durch himmlische Formationen. Enthalten seltene Ressourcen und Tiere.
+Herausforderungen: Gefährliche Flugbedingungen, Wächterbestien, Rätsel.
+Belohnungen: Spirituelle Tiere (z. B. Skyfire Phoenix), himmlische Kräuter (z. B. Ethereal Moonflower).
+Zugang: [Platzhalter: System für Zugang wird später ausgearbeitet]
+1.12 Platzhalter für wer Hat Zugang
